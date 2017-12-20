@@ -1,0 +1,129 @@
+{
+    "data": {
+        "corpid": "12",
+        "corps": [
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/foods/12.jpeg",
+                  "tel": "18810722863",
+                  "uid": 1,
+                  "uname": "冰蝴蝶"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/foods/14.jpeg",
+                  "tel": "18810722864",
+                  "uid": 2,
+                  "uname": "王昭君"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/foods/16.jpeg",
+                  "tel": "17903722863",
+                  "uid": 3,
+                  "uname": "周瑜"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/foods/2.jpg",
+                  "tel": "18546822863",
+                  "uid": 4,
+                  "uname": "刘备"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/foods/24.jpeg",
+                  "tel": "18824732863",
+                  "uid": 5,
+                  "uname": "曹操"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/test/20bOOOPICb8.jpg",
+                  "tel": "13670722863",
+                  "uid": 6,
+                  "uname": "貂蝉"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/album/images/1/2.jpg",
+                  "tel": "19880722863",
+                  "uid": 7,
+                  "uname": "吕布"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18810733443",
+                  "uid": 8,
+                  "uname": "王允"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "17895722863",
+                  "uid": 9,
+                  "uname": "董卓"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "12330722863",
+                  "uid": 10,
+                  "uname": "袁绍"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18820992863",
+                  "uid": 11,
+                  "uname": "袁术"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18009922863",
+                  "uid": 12,
+                  "uname": "张飞"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18877882863",
+                  "uid": 13,
+                  "uname": "关羽"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18564322863",
+                  "uid": 14,
+                  "uname": "诸葛亮"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18800452863",
+                  "uid": 15,
+                  "uname": "孙坚"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18810798643",
+                  "uid": 16,
+                  "uname": "孙权"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171124/20171124_1389.jpg",
+                  "tel": "18810002863",
+                  "uid": 17,
+                  "uname": "小乔"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171127/20171127_2006.jpg",
+                  "tel": "15737954647",
+                  "uid": 18,
+                  "uname": "周瑜"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171120/20171120_8782.jpg",
+                  "tel": "18610560040",
+                  "uid": 19,
+                  "uname": "司马懿"
+                  },
+                  {
+                  "pic": "http://119.10.59.201:8000/upload/upload/20171120/20171120_8782.jpg",
+                  "tel": "13366281956",
+                  "uid": 20,
+                  "uname": "小包"
+                  }
+                  ]
+    },
+    "info": "成功",
+    "result": "1"
+}
